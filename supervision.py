@@ -83,7 +83,7 @@ plt.legend()
 plt.grid(True)
 
 # Right Panel: Scaling Laws 
-plt.subplot(1, 2, 3)
+plt.subplot(1, 2, 2)
 
 for dims in dims_list:
     pi_safe = np.random.dirichlet(np.ones(dims))
