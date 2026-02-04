@@ -1,4 +1,6 @@
 # Hierarchical-ASI-Supervision
+A rigorous theoretical foundation for deception as constrained optimal control. **Part 1** 
+
 Framework for Detecting Deceptive Alignment in ASI
 
 # About
