@@ -23,7 +23,7 @@ $$\pi^*_t \propto \pi_0 \exp\left( \frac{R}{\lambda \gamma^\tau} \right)$$
 
 ---
 
-### Results from `part2/tmp_kl_delay.py`
+### Results 
 <img width="1269" height="479" alt="allin1" src="https://github.com/user-attachments/assets/3ee6ff73-03fc-4c1b-b06d-bf3d24ade9b0" />
 
 
